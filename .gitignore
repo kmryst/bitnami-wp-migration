@@ -1,0 +1,20 @@
+# Editor
+.cursor/
+.vscode/
+
+# Environment / Secrets
+.env
+*.env
+*.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files
+*.sql.gz
+*.tar.gz
+*.zip
